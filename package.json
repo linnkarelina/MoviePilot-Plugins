@@ -788,5 +788,15 @@
             "v1.1": "支持将极影视评分修改为豆瓣评分",
             "v1.0": "同步极影视在看/已看状态到豆瓣"
         }
+    },
+    "jackett":{
+        "name": "jackett",
+        "description": "启用jackett"
+        "labels": "工具",
+        "version": "1",
+        "icon": "jackett.png",
+        "author": "LINN"
+        "level": 1,
+       }
     }
 }
